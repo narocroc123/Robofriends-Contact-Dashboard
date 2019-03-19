@@ -2,9 +2,9 @@
 
 A searchable contact list in the form of individual contact cards, which includes name, email and profile picture for each contact. It draws its information dynamically from the Robohash web service, and is built using React and stylised with CSS and the Tachyons framework.
 
-## How To Use
+## How To Contribute
 
-If you'd like to contribute, or learn more about React, you can follow these steps to fork the repository and make changes:
+If you'd like to contribute you can follow these steps to fork the repository and make changes:
 
 1. Click 'fork' at the top of this repository
 2. Clone down your fork using `git clone https://github.com/YOUR-USERNAME/Robofriends-Contact-Dashboard`
